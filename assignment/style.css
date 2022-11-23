@@ -1,0 +1,11 @@
+header{
+    width: 100%;
+	height: 100px;
+    background-color: teal;
+	text-align: left;
+}
+
+.info{
+    background-color: yellow;
+    color: red
+}
