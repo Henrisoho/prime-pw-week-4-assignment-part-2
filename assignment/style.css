@@ -7,5 +7,19 @@ header{
 
 .info{
     background-color: yellow;
-    color: red
+    color: red;
+}
+
+.Carbox {
+  position:center;
+  text-align: center;
+  outline: solid 5px;
+  padding: -100px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.model{
+    background-color: purple;
+    color: white;
 }
